@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there, I'm Caleb McCombs! 👋
 
-<!--
-**Cmccombs01/Cmccombs01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data/BI Analyst passionate about turning complex datasets into actionable business strategies. I specialize in building end-to-end data pipelines, predictive models, and interactive dashboards to drive decision-making.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+* **Languages:** Python, SQL
+* **Tools & Platforms:** Tableau, Azure OpenAI, Jupyter Notebooks
+* **Skills:** Machine Learning, API Data Extraction, Forecasting, Churn Prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Highlighted Projects
+* **[Azure AI Executive Analyst](https://github.com/Cmccombs01/Azure-AI-Executive-Analyst):** A dual-layered AI platform predicting customer churn using Machine Learning and generating retention strategies via Azure OpenAI (GPT-4o-mini).
+* **[Valco Clan Command Center](https://github.com/Cmccombs01/Valco-Clan-Command-Center):** A strategic dashboard automating data extraction from the Wargaming API to optimize clan performance in real-time.
+* **[D&D Matchmaker Project](https://github.com/Cmccombs01/DD-Matchmaker-Project):** A SQL and AI-driven matchmaking engine for D&D campaigns.
+
+📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/) | [email]: (calebmccombs49@gmail.com)
