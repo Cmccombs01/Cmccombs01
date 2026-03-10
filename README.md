@@ -1,6 +1,6 @@
 # Hi there, I'm Caleb McCombs! 👋
 
-I am a Data/BI Analyst passionate about turning complex datasets into actionable business strategies. I specialize in building end-to-end data pipelines, predictive models, and interactive dashboards to drive decision-making.
+I am an AI Data Engineer and Python Developer passionate about building robust data pipelines, scaling LLM architectures, and turning complex datasets into actionable business strategies.
 
 ### 🛠️ Tech Stack
 * **Languages:** Python, SQL
