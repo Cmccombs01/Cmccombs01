@@ -8,12 +8,16 @@ I am a software engineer and data analyst specializing in Python, AI integration
 
 ---
 
-### 🚀 Featured Live Project: [DM Co-Pilot](https://delversgrimoire.streamlit.app/)
-*An AI-powered web application designed to automate D&D session prep and handle live combat math.*
-- **The Traction:** Hit **#1 on Viberank** for Top AI Apps. Currently handling 400+ concurrent users and processing thousands of weekly LLM API calls.
-- **The Architecture:** Zero-latency Python backend built with **Streamlit**, connected to a **Google Cloud (Firestore)** NoSQL database for live traffic telemetry and community data sharing.
-- **The AI Integration:** Engineered custom RAG pipelines and integrated multiple LLMs (**Groq, OpenAI**) for dynamic JSON generation, direct Foundry VTT webhooks, and live campaign simulation.
-- 📄 **[Read my Architecture Case Study on LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/)**
+🚀 Featured System: DM Co-Pilot
+High-Availability LLM Orchestration & Real-Time VTT Data Pipelines
+
+The Scale: Engineered a decoupled architecture to sustain 450+ concurrent users, maintaining a strict 0.71s average latency during peak weekend traffic.
+
+The Edge: Implemented a distributed Redis cache as a request coalescer, shielding the Firestore NoSQL database from high-frequency polling and preventing OOM crashes during heavy JSON Bestiary loads.
+
+The Bridge: Built a validated data pipeline for Foundry VTT and Roll20 that dynamically generates and pushes strictly typed JSON Actor5e and Item5e schemas via REST API webhooks.
+
+The Portal: Developed a Two-Way Player Portal utilizing asynchronous background workers and UI threading to synchronize live combat states between mobile clients and the primary DM workstation.
 
 *(Note: The DM Co-Pilot repository is currently private to protect proprietary AI prompts and live database configurations, but the app is live and actively maintained.)*
 
