@@ -1,36 +1,22 @@
-## Hi, I'm Caleb McCombs 👋
+# 🐉 GM Co-Pilot™ | Masterwork Edition
+### Home of The Amnesty Protocol
 
-*AI Data Engineer & Python Developer | Creator of DM Co-Pilot™*
+[![Read The Amnesty Protocol Blueprint](https://img.shields.io/badge/Read_The_Blueprint-The_Amnesty_Protocol-00FF00?style=for-the-badge)](https://github.com/Cmccombs01/GM-Copilot-Cloud/blob/main/THE_AMNESTY_PROTOCOL.md)
 
-I am a software engineer and data analyst specializing in Python, AI integration, and live database architecture. I build high-availability, data-driven tools that solve real problems, scale efficiently, and deliver frictionless user experiences. 
+The TTRPG industry has a massive problem: **The 20-hour onboarding barrier.** Legacy platforms are building walled gardens that require reading manuals, doing math, and navigating complex UIs just to start playing. 
 
-📫 *Let's connect:* [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/) | calebmccombs49@gmail.com
+**GM Co-Pilot™ is the bridge.** We have engineered an edge-cached, deterministic AI Operating System that reduces the barrier to entry from hours to **30 seconds**. A user scans a QR code, rolls a virtual d20, survives a 2-minute interactive crisis, and leaves with a fully compliant, 2024 RAW character payload that can be injected into *any* Virtual Tabletop (Roll20, Foundry VTT, D&D Beyond).
 
----
-
-### 🚀 Featured System: DM Co-Pilot™
-*High-Availability LLM Orchestration & Real-Time VTT Data Pipelines*
-*(Currently holding **#3 Monthly** and **#24 All-Time** on the global VibeRank AI Leaderboard).*
-
-* **The Scale:** Engineered a decoupled architecture to sustain 450+ concurrent users, maintaining a strict **0.94s average latency** during peak weekend traffic.
-* **The Edge:** Implemented a distributed Redis cache as a request coalescer, shielding the Firestore NoSQL database from high-frequency polling and delivering **0ms latency** on global database queries.
-* **The Asynchronous Aegis:** Deployed background UI threading and WebSockets to decouple heavy AI generation (audio/image) from the main UI thread, completely eliminating "AI Pause" application hanging.
-* **The Bridge & Embed:** Built a validated data pipeline for Foundry VTT and Roll20 that dynamically generates strictly typed JSON schemas via REST API webhooks, fully supported by a "Trojan Horse" iframe embed state for native platform integration.
-* **The Portal:** Developed a Two-Way Player Portal utilizing asynchronous background workers to synchronize live combat states between mobile clients and the primary DM workstation.
-
-*(Note: The DM Co-Pilot repository is currently private to protect proprietary AI prompts, live database configurations, and MRR infrastructure, but the app is live and actively maintained.)*
+We aren't a walled garden. We are the universal start screen.
 
 ---
 
-### 🛠️ Technical Arsenal
-- *Languages:* Python, SQL
-- *AI & Cloud:* OpenAI API, Groq (Llama-3), Ollama, Google Cloud (Firestore/Firebase), Qdrant (Vector DB)
-- *Frameworks & Tools:* Streamlit, Redis, Pandas, Plotly, Tableau, Jupyter Notebooks
-- *Core Skills:* Rapid Prototyping, Enterprise API Integrations, Data Visualization, System Scaling, Deterministic RAG Pipelines
+## 🚀 The Architecture (0.82s Latency Engine)
+*(Currently holding #3 Monthly and #24 All-Time on the global VibeRank AI Leaderboard).*
 
----
+* **The Edge:** Implemented a globally distributed Redis cache as a request coalescer and semantic normalizer, shielding the Firestore NoSQL database and delivering a strict **0.82s p99 latency** during peak AI generation.
+* **The Intelligence:** Powered by a deterministic RAG pipeline running Llama-3.3 (via Groq), strictly anchored to the 2024 Core Rules.
+* **The Bridge:** Dynamically generates strictly typed JSON schemas via REST API webhooks, supported by a "Trojan Horse" iframe embed state for native platform integration across the TTRPG ecosystem.
+* **The Spatial Frontier:** Headless Python backend architecture pre-configured to drive WebXR/A-Frame VR environments asynchronously.
 
-### 📊 Other Notable Projects
-- **Azure AI Executive Analyst:** A dual-layered AI platform that predicts customer churn using Machine Learning and generates high-level retention strategies via Azure OpenAI.
-- **Global AI Job Market (2010-2025):** Comprehensive data science capstone analyzing a decade of tech industry shifts using Python and Jupyter.
-- **Sales Performance Analytics:** Financial analytics dashboard utilizing Python and SQL to identify $19k+ in profit trends.
+📫 *Integration Inquiries & Contact:* [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-443b2326b/) | calebmccombs49@gmail.com
