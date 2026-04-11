@@ -1,22 +1,47 @@
-# 🐉 GM Co-Pilot™ | Masterwork Edition
-### Home of The Amnesty Protocol
+# 🐉 GM Co-Pilot™ | Institutional Grade TTRPG Infrastructure
 
-[![Read The Amnesty Protocol Blueprint](https://img.shields.io/badge/Read_The_Blueprint-The_Amnesty_Protocol-00FF00?style=for-the-badge)](https://github.com/Cmccombs01/GM-Copilot-Cloud/blob/main/THE_AMNESTY_PROTOCOL.md)
+**Status:** 🚀 Operation Marketplace (Target: May 30, 2026)  
+**Performance:** ⚡ 0.82s p99 Latency (Redis Edge-Cache)  
+**Ecosystem:** 🛡️ 171+ Active Entities Tracked in the Nexus  
 
-The TTRPG industry has a massive problem: **The 20-hour onboarding barrier.** Legacy platforms are building walled gardens that require reading manuals, doing math, and navigating complex UIs just to start playing. 
-
-**GM Co-Pilot™ is the bridge.** We have engineered an edge-cached, deterministic AI Operating System that reduces the barrier to entry from hours to **30 seconds**. A user scans a QR code, rolls a virtual d20, survives a 2-minute interactive crisis, and leaves with a fully compliant, 2024 RAW character payload that can be injected into *any* Virtual Tabletop (Roll20, Foundry VTT, D&D Beyond).
-
-We aren't a walled garden. We are the universal start screen.
+[![Read The Amnesty Protocol](https://img.shields.io/badge/BLUEPRINT-THE_AMNESTY_PROTOCOL-00FF00?style=for-the-badge)](https://github.com/Cmccombs01/GM-Copilot-Cloud/blob/main/THE_AMNESTY_PROTOCOL.md)
+[![Experience the Pulse](https://img.shields.io/badge/LIVE_APP-ENTER_THE_NEXUS-blue?style=for-the-badge)](https://dm-copilot-cloud.onrender.com/)
 
 ---
 
-## 🚀 The Architecture (0.82s Latency Engine)
-*(Currently holding #3 Monthly and #24 All-Time on the global VibeRank AI Leaderboard).*
+## 🏛️ The Amnesty Protocol: Phase 6 Secured
+The TTRPG industry is built on legacy lag and manual labor. We are architecting the bridge. **GM Co-Pilot™** is a deterministic, edge-cached AI Operating System that collapses the 20-hour onboarding barrier into a **30-second interactive surge.**
 
-* **The Edge:** Implemented a globally distributed Redis cache as a request coalescer and semantic normalizer, shielding the Firestore NoSQL database and delivering a strict **0.82s p99 latency** during peak AI generation.
-* **The Intelligence:** Powered by a deterministic RAG pipeline running Llama-3.3 (via Groq), strictly anchored to the 2024 Core Rules.
-* **The Bridge:** Dynamically generates strictly typed JSON schemas via REST API webhooks, supported by a "Trojan Horse" iframe embed state for native platform integration across the TTRPG ecosystem.
-* **The Spatial Frontier:** Headless Python backend architecture pre-configured to drive WebXR/A-Frame VR environments asynchronously.
+### ⚔️ The Phase 6 Triple Strike:
+1.  **The Multiverse Pulse:** A live, high-velocity telemetry ticker broadcasting every character forge and campaign listing in real-time.
+2.  **The Hall of Heroes:** A persistent, global chronicle recording the legacy of the **171+ entities** currently active in the Nexus.
+3.  **The Chronicle of Fate:** Asynchronous global event logging that ensures the world breathes even when the players are offline.
 
-📫 *Integration Inquiries & Contact:* [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-443b2326b/) | calebmccombs49@gmail.com
+---
+
+## 🚀 The Challenge: "Try to Break the Multiverse"
+We’ve moved to **S-Corp status** and hardened the infrastructure. Now, we need the community to find the friction.
+
+- **Dungeon Masters:** Use the [Matchmaker Engine](https://dm-copilot-cloud.onrender.com/) to link with high-intent players.
+- **Players:** Run the [Seed of Fate](https://dm-copilot-cloud.onrender.com/) and forge a 2024 RAW character in under 30 seconds.
+- **Developers:** Audit the [0.82s p99 Latency Engine](https://github.com/Cmccombs01/GM-Copilot-Cloud).
+
+**Challenge Issued:** If you can crash the edge-cache or out-pace the deterministic RAG pipeline, [open an issue](https://github.com/Cmccombs01/GM-Copilot-Cloud/issues).
+
+---
+
+## 🛠️ The Tech Stack (v26.3)
+* **The Brain:** Llama-3.3 via Groq (Deterministic RAG)
+* **The Shield:** Globally distributed Redis Edge-Cache (Request Coalescing)
+* **The Vault:** Firestore NoSQL + Qdrant Vector Archive
+* **The Bridge:** REST API Webhooks & Trojan Horse Iframe State Management
+* **The Spatial Frontier:** Headless Python backend for WebXR/A-Frame VR
+
+---
+
+## 📫 Connections & Intelligence
+* **Professional:** [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/) (Architecture updates & S-Corp news)
+* **Direct:** [calebmccombs49@gmail.com](mailto:calebmccombs49@gmail.com)
+* **Live Metrics:** [GM Co-Pilot Executive Dashboard](https://dm-copilot-cloud.onrender.com/)
+
+*"We aren't looking to get hired. We are building the infrastructure the giants will be forced to run on by 2027."*
