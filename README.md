@@ -44,7 +44,7 @@ We’ve achieved **S-Corp status** and hardened our infrastructure for B2B scale
 
 ## 📫 Connections & Intelligence
 * **Professional:** [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/) (Architecture updates & B2B case studies)
-* **Direct:** [calebmccombs49@gmail.com](mailto:calebmccombs49@gmail.com)
+* **Direct:** [caleb@delversgrimoire.com](mailto:caleb@delversgrimoire.com)
  
 
 
