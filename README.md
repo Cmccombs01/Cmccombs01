@@ -45,6 +45,6 @@ We’ve achieved **S-Corp status** and hardened our infrastructure for B2B scale
 ## 📫 Connections & Intelligence
 * **Professional:** [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/) (Architecture updates & B2B case studies)
 * **Direct:** [calebmccombs49@gmail.com](mailto:calebmccombs49@gmail.com)
-* **Live Engine:** [Masterwork Engine™ B2B Portal](https://masterwork-engine-924773003302.us-central1.run.app/)
+ 
 
-*"We aren't looking to get hired. We are building the infrastructure the giants will be forced to run on by 2027."*
+
