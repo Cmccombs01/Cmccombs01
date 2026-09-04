@@ -4,7 +4,6 @@
 **Performance:** ⚡ Zero-Friction Asynchronous Swarm Processing  
 **Ecosystem:** 🛡️ Masterwork Engine™ | Deterministic Data Pipelines  
 
-[![View Live B2B Engine](https://img.shields.io/badge/LIVE_APP-MASTERWORK_ENGINE-blue?style=for-the-badge)](https://masterwork-vtt-engine-heg3dwbjfyb7byhf.centralus-01.azurewebsites.net/)
 [![Reach Out](https://img.shields.io/badge/B2B_INQUIRIES-CONNECT_ON_LINKEDIN-0077B5?style=for-the-badge)](https://www.linkedin.com/in/caleb-mccombs-850335237/)
 
 ---
@@ -43,5 +42,6 @@ We’ve achieved **S-Corp status** and hardened our infrastructure for B2B scale
 ---
 
 ## 📫 Connections & Intelligence
+*   **Storefront:** [GM-Copilot Studios Portal](https://cmccombs01.github.io/GM-Copilot-Studios.github.io/)
 *   **Professional:** [LinkedIn](https://www.linkedin.com/in/caleb-mccombs-850335237/) (Architecture updates & B2B case studies)
 *   **Direct:** caleb@delversgrimoire.com
